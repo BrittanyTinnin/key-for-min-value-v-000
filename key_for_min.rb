@@ -18,4 +18,3 @@ def key_for_min_value(veggies)
     end
   end
 end
-
